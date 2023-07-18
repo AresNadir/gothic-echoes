@@ -61,33 +61,6 @@ export default {
           postImg: 'dammyImage',
           punlishedDate: 'the date',
         },
-        {
-          id:'post7',
-          title: 'The  lorem 7',
-          category: ['Music'],
-          excerpt: 'The lorem ipsum excerpt demo content...',
-          content: '7 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-          postImg: 'dammyImage',
-          punlishedDate: 'the date',
-        },
-        {
-          id:'post8',
-          title: 'The  lorem 8',
-          category: ['Events'],
-          excerpt: 'The lorem ipsum excerpt demo content...',
-          content: '8 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-          postImg: 'dammyImage',
-          punlishedDate: 'the date',
-        },
-        {
-          id:'post9',
-          title: 'The  lorem 9',
-          category: ['Events'],
-          excerpt: 'The lorem ipsum excerpt demo content...',
-          content: '9 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-          postImg: 'dammyImage',
-          punlishedDate: 'the date',
-        },
       ]
     };
   },
