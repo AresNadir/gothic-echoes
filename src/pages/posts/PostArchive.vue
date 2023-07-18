@@ -13,6 +13,7 @@
     </post-item>
     </ul>
     <h2 v-else>No posts yet</h2>
+    
     </div>
   </base-container>
  </template>

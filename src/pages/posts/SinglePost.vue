@@ -3,7 +3,7 @@
     <section>
       <base-card>
         <img src="https://nadir.gr/wp-content/uploads/2023/07/testimg.jpg" alt="">
-        <h2> {{ title }} </h2>
+        <h2> {{ title }}</h2>
         <div class="post-content" v-html="content"></div>
       </base-card>
     </section>

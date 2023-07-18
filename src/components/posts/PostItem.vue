@@ -38,12 +38,10 @@ export default {
     }
   },
 }
-
 </script>
 
 
 <style scoped>
-
 article {
   display:flex;
   flex-direction: column;
