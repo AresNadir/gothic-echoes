@@ -23,15 +23,22 @@ export default {
     TheMenu,
   },
 }
-
+  
 </script>
 
 <style scoped>
-section ,a{
+section{
+  /* position: fixed;
+  display: flex; */
+  
   background:black;
   color:#fff;
 }
 
+header {
+  position:fixed;
+  width:100%;
+}
 .header_container {
 	display: flex;
   align-items: center;
@@ -39,7 +46,6 @@ section ,a{
 
 .header-col-1 {
 	flex: 1;
-  
 }
 
 </style>

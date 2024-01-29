@@ -18,6 +18,8 @@
 
 <style scoped>
 .base-container {
+  min-height:100vh;
+  height:auto;
   background:yellowgreen;
   display: flex;
   
